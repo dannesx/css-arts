@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 125%;
+}
+
+h1 {
+  margin: 60px auto;
+  line-height: 1;
+}
+
+h1 span {
+  font-size: 62.5%;
+  font-family: monospace;
+  opacity: 0.7;
+}
+
+a {
+  text-decoration: none;
+  line-height: 2.2;
+}
+
+a:visited {
+  color: magenta;
+}
