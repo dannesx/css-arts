@@ -15,7 +15,7 @@ I always loved draws and arts in my youth. The years pass me by, and the adult r
 
 This repository is only for fun, tests and practice. Enjoy it!
 
-## 🚀 Tools and Technologies
+## 🚀 Tools & Technologies
 
 *This project was development with:*
 
@@ -25,7 +25,7 @@ This repository is only for fun, tests and practice. Enjoy it!
 - VSCode
 - Git & GitHub Pages
 
-## 📚 Aprendizado
+## 📚 Learning
 
 *In this project I practiced:*
 
@@ -37,7 +37,7 @@ This repository is only for fun, tests and practice. Enjoy it!
 *Click in the arts to see more!*
 
 <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;">
-   <a href="https://dannesx.github.io/css-arts"><img src="repo/nintendo-nes.png"/></a>
+   <a href="https://dannesx.github.io/css-arts/css-arts/nintendo-nes/nintendo-nes.html"><img src="repo/nintendo-nes.png"/></a>
 </div>
 
 ## 🤖 Credits & Thanks
